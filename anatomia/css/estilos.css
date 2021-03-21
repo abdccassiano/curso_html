@@ -1,0 +1,40 @@
+body {
+    background-color: #efefef;
+}
+
+span {
+    color: yellow;
+}
+
+/*p{
+    color: rgb(0,255,255);
+}*/
+
+.text {
+    font-size: 30px;
+    color: red;
+}
+
+#parrafo {
+    font-size: 60px;
+    color: blue;
+}
+
+/*p.combinado {
+    font-size: 90px;
+}*/
+
+p.caja {
+    border: 1px solid red;
+    /*margin: 0;*/
+    /*margin: 30px 50px 10px 50px;*/
+
+    /*margin: 30px 50px;*/
+    margin: 40px;
+}
+
+p.box {
+    border: 1px dashed blue;
+    margin: 0;
+    padding: 15px;
+}

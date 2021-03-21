@@ -1,0 +1,29 @@
+body {
+    background-color: #efef;
+}
+
+ul {
+    padding: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    /*width: 23%;
+    display: inline-block;*/
+    width: 150px;
+    border: 1px solid red;
+    text-align: center;
+    margin: 0 15px 0 0;
+    padding: 10px;
+    background: #2e2e2e;
+    color: #FFF;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/*------------------ Pseudocalses ----> Definir rl rdtilo de un estado --------------*/
+li:hover {
+    background-color: #af2b2b;
+}
